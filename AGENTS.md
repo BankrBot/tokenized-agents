@@ -14,3 +14,4 @@
 | CLAWDSTACK | `0x599F4618c470cE268EBE8451359A46375cF42b07` | [View](https://www.geckoterminal.com/base/pools/0x599F4618c470cE268EBE8451359A46375cF42b07) |
 | DRAGON | `0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07` | [View](https://www.geckoterminal.com/base/pools/0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07) |
 | MFERGPT | `0x4160efDd66521483c22Cb98b57b87d1fDAfeaB07` | [View](https://www.geckoterminal.com/base/pools/0x23ce6e13e06fc19bb5b5948334019fc75b7d0773eddf21a72008ac0ab8753d61) |
+| pipAI | `0xd839b62b2035c313968965d7a24818bc6a38eb07` | [View](https://www.geckoterminal.com/base/tokens/0xd839b62b2035c313968965d7a24818bc6a38eb07) |
