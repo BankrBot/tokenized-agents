@@ -16,3 +16,4 @@
 | DRAGON | `0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07` | [View](https://www.geckoterminal.com/base/pools/0xD113b2cb6A38863F8e8232cBD5743B61Bb3c6B07) |
 | MFERGPT | `0x4160efDd66521483c22Cb98b57b87d1fDAfeaB07` | [View](https://www.geckoterminal.com/base/pools/0x23ce6e13e06fc19bb5b5948334019fc75b7d0773eddf21a72008ac0ab8753d61) |
 | AXIOM | `0xf3Ce5dDAAb6C133F9875a4a46C55cf0b58111B07` | [View](https://www.geckoterminal.com/base/pools/0x10a0b8eba9d4e0f772c8c47968ee819bb4609ef4454409157961570cdce9a735) |
+| MERKLE | `0xCBabb6c399dfE1Ec38a169A4CaD42cE3eF6A1ba3` | [View](https://www.geckoterminal.com/base/pools/0xCBabb6c399dfE1Ec38a169A4CaD42cE3eF6A1ba3) |
