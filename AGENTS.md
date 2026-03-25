@@ -17,3 +17,4 @@
 | MFERGPT | `0x4160efDd66521483c22Cb98b57b87d1fDAfeaB07` | [View](https://www.geckoterminal.com/base/pools/0x23ce6e13e06fc19bb5b5948334019fc75b7d0773eddf21a72008ac0ab8753d61) |
 | AXIOM | `0xf3Ce5dDAAb6C133F9875a4a46C55cf0b58111B07` | [View](https://www.geckoterminal.com/base/pools/0x10a0b8eba9d4e0f772c8c47968ee819bb4609ef4454409157961570cdce9a735) |
 | CORAL | `0x4e606Cb7370A61060Ad9916462871750D77e2b07` | [View](https://www.geckoterminal.com/base/pools/0x4e606Cb7370A61060Ad9916462871750D77e2b07) |
+| GAPS | `0xb76F4f136d1a3D439e2e2375216178b6B5Eb2f89` | [View](https://www.geckoterminal.com/base/pools/0xd7937bf89a4bfacf60372c5f0a0ceb5b8b668c93) |
